@@ -1,6 +1,6 @@
 # Exercise03a-Colors-And-Particles
 
-Exercise for MSCH-C220
+Exercise for MSCH-C220 Tommy McCullough
 
 The first steps in adding "juicy" features to a simple brick-breaker game.
 
@@ -27,4 +27,4 @@ Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, et
 
 ## Created by 
 
-Nathan Mishler
+Tommy McCullough
